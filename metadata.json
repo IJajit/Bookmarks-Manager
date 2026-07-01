@@ -1,0 +1,6 @@
+{
+  "name": "Folder Bookmarks",
+  "description": "A tactile, archive-inspired retro folder bookmarking and website link manager system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
